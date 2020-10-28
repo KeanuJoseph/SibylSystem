@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SibylSystem</string>
+
+
+    <!--Bottom Navigation View-->
+    <string name="menu_home">Home</string>
+    <string name="menu_status">Status</string>
+    <string name="menu_diary">Diary</string>
+    <string name="menu_profile">Profile</string>
+
 </resources>
