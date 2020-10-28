@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="gray">#838383</color>
+    <color name="mimo_green">#0c9654</color>
+    <color name="mimo_blue">#208aed</color>
+    <color name="mimo_pink">#f483eb</color>
+    <color name="mimo_purple">#8d62ae</color>
+    <color name="mimo_yam">#3c436e</color>
+    <color name="mimo_gray">#c0c9d3</color>
 </resources>

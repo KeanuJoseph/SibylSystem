@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--color of bottom navigation icons-->
+    <item android:state_selected="true" android:color="@color/mimo_green"/>
+    <item android:state_selected="false" android:color="@color/gray"/>
+
+
+</selector>
